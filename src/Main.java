@@ -2,7 +2,6 @@ public class Main {
 
     static final int size = 10000000;
     static final int h = size / 2;
-    static Object lock = new Object();
 
     public static void main(String[] args) {
         handleArraySimple();
